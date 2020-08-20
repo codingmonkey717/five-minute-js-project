@@ -1,0 +1,7 @@
+body{
+    word-spacing: .5rem;
+}
+
+div[data-content]{
+    cursor: pointer;
+}
